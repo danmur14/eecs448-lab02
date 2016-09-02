@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Daniel Murga
+*	@date 9-2-16
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
